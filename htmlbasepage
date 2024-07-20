@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pulse</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+    <div>
+        <div class="top_container">
+            <nav class="nav1">
+                <a href="*" class="navbar" target="_blank" rel="noopener noreferrer">pulse.</a>
+                <div class="center">
+                    <a href="#home" class="home">Home</a>
+                    <a href="#">Features</a>
+                    <a href="#">About</a>
+                </div>
+                <div class="right">
+                    <div class="apple">
+                        <a href="#">Get</a>
+                    </div>
+                    <div class="play">
+                        <a href="#">Get</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="middlecontainer">
+        <div class="money">be money</div>
+        <div class="meaningful">mindful</div>
+    </div>
+    <div class="rectangle">
+        <form class="example" action="action.php">
+            <input type="text" placeholder="Enter your Email" id="search2" class="ga-fp" autocomplete="off"
+                onkeydown="key_pressed_in_search(event)" oninput="find_search_results(this)"
+                onfocus="find_search_results(this)" style="border-bottom-left-radius: 25px;">
+            <button type="button" id="learntocode_searchbtn" onclick="click_learntocode_search_btn()">Join the
+                wishlist</button>
+        </form>
+    </div>
+    <div class="icons">
+        <div class="applestore">
+            <a href="#">Apple Store</a>
+        </div>
+        <div class="playstore">
+            <a href="#">PlayStore</a>
+        </div>
+    </div>
+    <div class="iphone">
+        <img class="cover" src="cover.png" alt="">
+    </div>
+    <div class="content">
+        <p><span class="know">Know more about your money – at a glance.</span>pulse makes it easy to see where
+            your money is going, so you can make informed financial choices. Catch
+            hidden fees, find that old subscription, and track payments - with Pulse in your
+            pocket you’ll have more time and money to focus on what’s important.</p>
+    </div>
+    <div class="top_features">
+        <div class="connect">
+            <img src="connect.svg.png" alt="">
+            <p class="connect1">Connect all your bank</p>
+        </div>
+        <div class="subs">
+            <img src="subscription.svg.png" alt="">
+            <p class="sub1">Subscription overview</p>
+        </div>
+        <div class="spend">
+            <img src="spending.svg.png" alt="">
+            <p class="spend1">spending insight</p>
+        </div>
+        <div class="bill">
+            <img src="alerts.svg.png" alt="">
+            <p class="bill1">Bill alert and due dates</p>
+        </div>
+    </div>
+    <div class="bottom_features">
+        <div class="category">
+            <img src="category.svg.png" alt="">
+            <p class="category1">Catagorized spending</p>
+        </div>
+        <div class="balence">
+            <img src="balances.svg.png" alt="">
+            <p class="balence1">Balances and income</p>
+        </div>
+        <div class="analyse">
+            <img src="visualize.svg.png" alt="">
+            <p class="analyse1">analyze your money</p>
+        </div>
+        <div class="save">
+            <img src="catchup.svg.png" alt="">
+            <p class="save1">Save your favs</p>
+        </div>
+    </div>
+    <div class="inner_section">
+        <div class="connect2">
+            <h1>Connected</h1>
+            <p class="easy">Easily connect unlimited
+                accounts and see them all in
+                one place. pulse supports all
+                major banks in India, and
+                we’re working on supporting
+                credit unions soon.</p>
+        </div>
+        <div class="friend">
+            <h1>Friendly</h1>
+            <p class="friend1">pulse is designed with
+                positivity in mind, because
+                we’re here to make your
+                financial journey a good one.
+                We make checking on your
+                accounts easy, insightful and
+                rewarding, so you can spend,
+                save, and invest with
+                confidence.</p>
+        </div>
+        <div class="country">
+            <h1>Indian</h1>
+            <p class="n1">We are a team of financial wizards, professionals, designers - and most importantly - real
+                people with a whole range of real experiences. We care about sharing knowledge and promoting equality in
+                the financial world.</p>
+        </div>
+        <div class="secure">
+            <h1>Secure</h1>
+            <p class="sec">We are as transparent and direct as possible with all of our technology and we take your
+                privacy and security seriously. We use 256 bit encryption (the highest level of security available) and
+                never share your data without your permission.</p>
+        </div>
+    </div>
+    <div class="all_faq">
+        <div class="faq1">
+            <div class="text">When will pulse be available? </div>
+            <div class="plus">+</div>
+        </div>
+        <div class="faq2">
+            <div class="text2">What countries will pulse be available in?</div>
+            <div class="plus">+</div>
+        </div>
+        <div class="faq3">
+            <div class="text3">Can i get BETA access?</div>
+            <div class="plus">+</div>
+        </div>
+        <div class="faq4">
+            <div class="text4">Is my Bank data secure?</div>
+            <div class="plus">+</div>
+        </div>
+        <div class="faq5">
+            <div class="text5">What can pulse do with access to my bank account?</div>
+            <div class="plus">+</div>
+        </div>
+        <div class="faq6">
+            <div class="text6">How do you use my personal information?</div>
+            <div class="plus">+</div>
+        </div>
+    </div>
+    <div class="early">
+        <img src="sun.gif" alt="">
+        <div class="early1">Get Early</div>
+        <div class="access1">Access!</div>
+        <div class="term1">For iOS and Android</div>
+        <div class="apple2"><a href="#" class="apple1">App Store</a></div>
+        
+        <div class="play2"><a href="#" class="play1">Play Store</a></div>
+        <img src="arrow.gif" alt="">
+    </div>
+    
+
+</body>
+
+</html>
