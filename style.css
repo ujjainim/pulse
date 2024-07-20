@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    overflow: hidden;
+    background-color: #fff;
+    justify-content: space-between;
+}
+.navbar a{
+    color: #333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
